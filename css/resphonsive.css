@@ -1,0 +1,55 @@
+
+
+
+
+
+@media all and (max-width:1300px){
+
+
+.cover-area{
+	width:80%;
+	margin:auto;
+	padding:20px;
+}
+.logo-area{
+	float:left;
+	width:50%;
+	cursor:pointer;
+
+}
+.login-area{
+	float:left;
+	width:50%;
+}
+
+	
+}
+@media all and (max-width:1200px){
+	
+.cover-area{
+	width:80%;
+	margin:auto;
+	padding:20px;
+}
+.logo-area{
+	float:left;
+	width:40%;
+	cursor:pointer;
+
+}
+.login-area{
+	float:left;
+	width:60%;
+}
+	
+}
+
+
+
+
+
+
+
+
+
+

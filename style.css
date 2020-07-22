@@ -1,0 +1,259 @@
+body{
+	margin:0;
+	padding:0;
+}
+.header-area{
+	background:#3C5B9A;
+}
+.cover-area{
+	width:80%;
+	margin:auto;
+	padding:20px;
+}
+.logo-area{
+	float:left;
+	width:60%;
+	cursor:pointer;
+
+}
+.login-area{
+	float:left;
+	width:40%;
+}
+.header-area:after{
+	content:'';
+	display:block;
+	clear:both;
+}
+.first-login{
+	float:left;
+}
+.second-login{
+	float:left;
+}
+.second-login a{
+	font-size:17px;
+	color:#9cb4d8;
+}
+a{
+  text-decoration:none;	
+}
+a:hover{
+	text-decoration:underline;
+}
+.third-login{
+	float:left;
+	
+}
+.login-area input{
+	display:block;
+	margin-right:5px;
+    border:1px solid #1d2a5b;
+	font-size:14px;
+	
+}
+
+.login-area label{
+	color:#fff;
+	font-size:14px;
+	cursor:pointer;
+	margin-bottom:4px;
+	display:block;
+}
+
+.third-login input{
+    cursor:pointer;
+	background:#4169B7;
+	border-color:#4169B7;
+	color:#fff;
+	display:block;
+	margin-top:19px;
+
+}
+
+
+/* sineup section area */
+
+.medil-area{
+	width:80%;
+	margin:auto;
+}
+.sineup-left{
+	width:60%;
+	float:left;
+	}
+	
+.sineup-right{
+	width:40%;
+	float:left;
+	
+}
+.sineup-area{
+	
+ background:linear-gradient(#ffffff,#D4d9e8);
+}
+.medil-area:after{
+content:'';
+display:block;
+clear:both;	
+
+}
+.sineup-left p{
+ color:#0e385f;
+font-size:20px;
+font-weight:bold;
+width:70%; 
+	
+}
+.sineup-right h2{
+	color:#333333;
+	font-size:35px;
+	margin-bottom:5px;
+	
+}
+.sineup-right h3{
+	color:#333;
+	font-size:20px;
+	margin-bottom:10px 0;
+}
+.sineup-right input[type=text],.sineup-right 
+input[type=password]{ 
+width:100%;
+font-size:18px;
+padding:6px;
+margin:5px 0;
+border-radius:3px;
+border:1px solid #bdc7d8;
+box-sizing:border-box;
+
+} 
+
+ 
+
+.username input:nth-child(1){
+	width:49%;
+	float:left;
+	
+}
+.username input:nth-child(2){
+	width:49%;
+	float:right;
+	
+}
+.birth-day h4{
+	color:#333;
+	font-size:20px;
+	margin:5px 0;
+	font-weight:normal;
+}
+.bbb-option select {
+	padding:4px 0;
+	font-size:15px;
+	border: 1px solid #ccd0d5;
+	margin-top:5px;
+
+}
+.bbb-option option{
+	font-size:13px;
+}
+
+.bbb-option{
+	float:left;
+	margin-right:10px;
+}
+.bbbb-link{
+	float:left;
+	width:150px;
+}
+
+.bbbb-link a{
+	
+ color:#365899;
+ font-size:12px; 
+	
+}
+.gender{
+	width:300px;
+}
+.gender label{
+	color:#333;
+	font-size:20px;
+	margin-top:18px;
+	display:inline-block;
+	
+}
+p.police{
+  font-size:12px;
+  color:#777;	
+   width:75%;
+  
+}
+p.police a{
+	color:#365899;
+}
+ /* sneup arey is main submit form here */
+.sineup-right input[type="submit"]{
+	background:linear-gradient(#67ae55,#578843);
+	padding:8px 25px;
+	font-size:18px;
+	color:#fff;
+	border-radius:5px;
+	min-width: 194px;
+	cursor:pointer;
+	border:1px solid #2C5115;
+}
+.sineup-right input[type="submit"]:hover{
+	background:linear-gradient(#578843,#67ae55);
+}
+
+.sineup-right h5{
+	font-size:15px;
+	  color:#777;
+}
+.sineup-right a{
+	color:#365899;
+}
+/* footer area form here */
+
+.footer{
+	background:#FEFEFE;
+	width:100%;
+	margin-top:0;
+	margin-bottom:0;
+	clear:both;
+	height:150px;
+
+}
+.all-footer{
+	width:70%;
+	margin:auto;
+}
+.all-footer p{
+	color:#365899;
+	font-size:14px;
+
+}
+.all-footer p hr{
+	
+	color:#F3F1F1;
+}
+.all-footer ul{
+	
+	list-style:none;
+	
+	
+}
+.all-footer ul a{
+	float:left;
+	padding:10px;
+	text-decoration:none;
+	color:#365899;
+	font-size:14px;
+	line-height: .5;
+}
+
+
+
+
+
+
